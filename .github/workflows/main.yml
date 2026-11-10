@@ -24,4 +24,4 @@ jobs:
         uses: docker/build-push-action@v7
         with:
           push: true
-          tags: usuarioDEdockerhub/2026
+          tags: xwang005/cicd2026
